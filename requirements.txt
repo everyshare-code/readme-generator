@@ -1,0 +1,10 @@
+langchain-openai
+langchain-community
+tiktoken
+scikit-learn
+numpy
+pandas
+transformers
+python-dotenv
+flask
+logging
