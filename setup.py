@@ -6,14 +6,13 @@ setup(
     packages=find_packages(),
     install_requires=[
         "langchain-openai",
-        "langchain-community",
+        "langchain",
         "tiktoken",
         "scikit-learn",
         "numpy",
         "pandas",
         "transformers",
         "python-dotenv",
-        "flask",
         "logging"
     ],
     entry_points={
